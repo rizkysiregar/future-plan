@@ -1,0 +1,3 @@
+1. Mengetahui bagaimana proses membangun aplikasi dari awal sampai akhir.
+2. Mampu membuat aplikasi dengan mandiri
+3. Memberikan manfaat dari aplikasi yang saya buat
